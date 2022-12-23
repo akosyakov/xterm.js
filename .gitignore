@@ -4,6 +4,7 @@ node_modules/
 lib/
 out/
 out-test/
+out-ide/
 .nyc_output/
 Makefile.gyp
 *.Makefile
